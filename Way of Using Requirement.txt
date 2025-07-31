@@ -1,0 +1,8 @@
+Save the above content in a file named requirements.txt in your project folder.
+
+Run the following command in your terminal or command prompt:
+
+pip install -r requirements.txt
+
+
+This will automatically install all the needed libraries.

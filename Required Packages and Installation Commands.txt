@@ -1,0 +1,21 @@
+pip install numpy
+pip install pandas
+pip install scikit-learn
+pip install keras
+pip install matplotlib
+pip install genetic-selection
+pip install tensorflow
+
+
+Note:-tensorflow is required because Keras now depends on it.
+
+genetic-selection provides GeneticSelectionCV, which you are using to apply genetic algorithms for feature selection.
+
+If you're using Python 3.10+, make sure versions of TensorFlow/Keras are compatible with your Python version.
+
+
+Optional (for GUI display on some systems):
+If you're using a minimal OS or a Linux environment without a display manager, you might also need:
+
+
+sudo apt-get install python3-tk
